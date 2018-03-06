@@ -1,2 +1,3 @@
-# Software
-Ubuntu init tools
+# SoftWare
+
+Some ubuntu software and tools
